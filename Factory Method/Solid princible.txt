@@ -1,0 +1,4 @@
+Dependency Inversion Principle
+
+I am creating an interface to reduce the calling function  connection
+This achieves Dependency Inversion Principle
